@@ -18,7 +18,6 @@ Mi objetivo es documentar todo el proceso de aprendizaje, compartir conocimiento
 ## 📂 Estructura del Repositorio
 
 ```bash
-.
 ├── Practicas Git/
 │   ├── Prácticas/
 │   │   ├── practica1.js
